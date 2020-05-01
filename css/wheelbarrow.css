@@ -3,7 +3,8 @@ html {
 }
 
 img {
-  position: relative;
+  position: absolute;
+  left:100px;
   z-index: 11;
   cursor: pointer;
 }
@@ -38,3 +39,20 @@ img {
 #basket, #ball {
   display: inline;
 }
+
+.kitty-1{
+  width: 200px
+}
+
+
+.kitty-2{
+  width: 100px
+  
+  
+  
+}
+
+
+
+
+
